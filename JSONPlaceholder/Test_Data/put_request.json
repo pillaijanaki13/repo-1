@@ -1,0 +1,17 @@
+﻿{
+  "posts": {
+    "postJson": {
+      "userid": 1,
+      "title": "Test",
+      "body": "Testing post"
+    }
+  },
+  "comments": {
+    "postJson": {
+   "postId": 1,
+  "name": "Test Name",
+  "email": "testemail@gmail.com",
+  "body": "Testing comments"
+    }
+  }
+}
